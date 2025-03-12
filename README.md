@@ -138,7 +138,7 @@
 
     <div class="container">
         <div class="profile-card">
-            <img src="https://electronics.kiit.ac.in/wp-content/uploads/2018/11/Deepak-Kumar-Rout.jpg" 
+            <img src="/PP100.jpg" 
                  alt="Dr. Deepak Kumar Rout" 
                  class="profile-img"
                  onerror="this.onerror=null; this.src='assets/deepak.jpg';">
