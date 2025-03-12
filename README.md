@@ -1,3 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deepak Kumar Rout</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background: #0073e6;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 20px;
+            background: white;
+        }
+        img {
+            display: block;
+            margin: 20px auto;
+            width: 150px;
+            border-radius: 50%;
+        }
+        h2 {
+            border-bottom: 2px solid #0073e6;
+            padding-bottom: 5px;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background: #0073e6;
+            color: white;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Deepak Kumar Rout</h1>
+        <p>Assistant Professor | Researcher | Mentor</p>
+    </header>
+    <div class="container">
+        <img src="image.png" alt="Deepak Kumar Rout">
+        <div class="section">
+            <h2>Contact Information</h2>
+            <p>Assistant Professor II, School of Electronics Engineering, KIIT University</p>
+            <p>Patia, Bhubaneswar, Odisha - 751024</p>
+            <p>Email: deepak09@live.com | Phone: +91-9692460769</p>
+        </div>
+        <div class="section">
+            <h2>Research Interests</h2>
+            <ul>
+                <li>Body Area Networks</li>
+                <li>Internet of Things</li>
+                <li>Wireless Communication</li>
+                <li>Mobile Computing</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h2>Recent Achievements</h2>
+            <ul>
+                <li>Mentored students for Samsung PRISM worklet</li>
+                <li>Guided a team to victory in Robofest 4.0</li>
+                <li>Co-organized IEEE Conferences: AESPC 2024, IC3S 2023</li>
+                <li>Developed video lectures on IoT & Industry 4.0</li>
+            </ul>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2025 Deepak Kumar Rout</p>
+    </footer>
+</body>
+</html>
+
+
+
+
+
 # Dr. Deepak Kumar Rout
 <img src="https://electronics.kiit.ac.in/wp-content/uploads/2018/11/Deepak-Kumar-Rout.jpg" alt="Deepak Kumar Rout" style="float:right; width:200px;">
 
